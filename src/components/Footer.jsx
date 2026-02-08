@@ -8,7 +8,7 @@ function Footer() {
 
         <div className="flex items-center justify-center gap-6 mb-8">
           <a
-            href="https://github.com/Haewon-Park"
+            href="https://github.com/hayden-02055"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-gray-600 transition-colors"
@@ -24,7 +24,7 @@ function Footer() {
           </a>
 
           <a
-            href="mailto:contact@example.com"
+            href="hayden02p@gmail.com"
             className="text-gray-400 hover:text-gray-600 transition-colors"
             aria-label="Email"
           >
@@ -45,7 +45,7 @@ function Footer() {
         </div>
 
         <p className="text-sm text-gray-400">
-          © 2024 Haewon Park. All rights reserved.
+          © 2026 Haewon Park. All rights reserved.
         </p>
       </div>
     </footer>
